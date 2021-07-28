@@ -1,2 +1,2 @@
-# animation-wp-block
-A animation block for the WordPress block editor (Gutenberg) 
+# layers-wp-block
+A layer block for the WordPress block editor (Gutenberg)
